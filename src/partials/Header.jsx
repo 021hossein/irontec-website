@@ -53,7 +53,7 @@ function Header() {
           <nav className="flex flex-grow">
             <ul className="flex flex-grow justify-end flex-wrap items-center">
               <li>
-                <a target="_blank" href="https://irontec-doc.s3-website.ir-thr-at1.arvanstorage.com/docs/intro" className="font-medium text-gray-600 hover:text-gray-900 px-1 sm:px-5 py-3 flex items-center transition duration-150 ease-in-out">مرکز آموزش</a>
+                <a target="_blank" href="https://docs.irontec.ir/docs/intro" className="font-medium text-gray-600 hover:text-gray-900 px-1 sm:px-5 py-3 flex items-center transition duration-150 ease-in-out">مرکز آموزش</a>
               </li>
               <li>
                 <a target="_blank" href="/app-latest.apk" className="btn-sm text-gray-200 bg-gray-900 hover:bg-gray-800 mr-3">
